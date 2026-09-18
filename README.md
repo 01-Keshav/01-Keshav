@@ -142,26 +142,21 @@ Current Focus:
 
 <div align="center">
 
-  <!-- STATS & TOP LANGS -->
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=01-Keshav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=94A3B8" alt="Keshav's GitHub Stats" height="175" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01-Keshav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" height="175" />
-      </td>
-    </tr>
-  </table>
-
-  <!-- STREAK STATS -->
+  <!-- STATS & TOP LANGS CARDS WITH HIGH-CONTRAST VIBRANT ICONS -->
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=01-Keshav&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F43F5E&currStreakLabel=38BDF8" alt="GitHub Streak" width="95%" />
+    <a href="https://github.com/01-Keshav">
+      <img src="https://github-readme-stats.vercel.app/api?username=01-Keshav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&include_all_commits=true&count_private=true" alt="Keshav's GitHub Stats" />
+    </a>
+    <a href="https://github.com/01-Keshav">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01-Keshav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
+    </a>
   </p>
 
-  <!-- GITHUB TROPHIES -->
+  <!-- STREAK STATS (HIGH-PERFORMANCE DEMOLAB ENDPOINT) -->
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=01-Keshav&theme=tokyonight&no-frame=true&no-bg=true&margin_w=6" alt="Keshav's Trophies" width="95%" />
+    <a href="https://github.com/01-Keshav">
+      <img src="https://streak-stats.demolab.com/?user=01-Keshav&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F43F5E&currStreakLabel=38BDF8" alt="GitHub Streak" />
+    </a>
   </p>
 
 </div>
@@ -191,4 +186,3 @@ Current Focus:
   <sub>⚡ Designed & Engineered with precision by <strong>Keshav Shrivastava</strong> ⚡</sub>
 
 </div>
-
